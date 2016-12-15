@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+     background-image:url("https://s-media-cache-ak0.pinimg.com/originals/3c/83/8b/3c838b9031d3450a5f76d15d40b334d3.jpg");
+      background-repeat:no-repeat;
+      background-size:200%;
+      }
+ p {
+color:#380B61;
+font-size:30px;
+text-align:center;
+font-family:jasmineUPC;
+text-decoration:underline;
+}
+
+h1 {
+color:#DC3C67;
+text-align:center;
+font-family:chiller;
+font-size:50px
+}
+table, td, th {    
+    border: 1px solid black;
+    text-align: left;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    
+}
+
+th, td {
+    padding: 20px;
+    color:#380B61;;
+  font.family:jasmineUPC;
+    }
+    
+</style>
+</head>
+<body>
+
+<h1>About</h1>
+
+<p>We work everyday even on holidays</p>
+
+<table>
+  <tr>
+    <th>WEEKDAYS</th>
+    <th>WEEKENDS</th>
+    <th>HOLIDAYS</th>
+  </tr>
+  <tr>
+    <td>8.00AM-8.00PM</td>
+    <td>10.00AM-8.00pM</td>
+    <td>WHOLE DAY</td>
+  </tr>
+  
+  </table>
+</body>
+</html>
+
+ 

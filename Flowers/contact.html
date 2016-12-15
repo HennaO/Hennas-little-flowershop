@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+    background-image:url("https://s-media-cache-ak0.pinimg.com/originals/3c/83/8b/3c838b9031d3450a5f76d15d40b334d3.jpg");
+      background-repeat:no-repeat;
+      background-size:100%;
+      }
+      
+
+.chip {
+    display: inline-block;
+    padding: 0 25px;
+    height: 50px;
+    font-size: 16px;
+    line-height: 50px;
+    border-radius: 25px;
+    background-color: #f1f1f1;
+}
+
+.chip img {
+    float: left;
+    margin: 0 10px 0 -25px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+</style>
+</head>
+<body>
+
+<div class="chip">
+  <img src="https://lh3.googleusercontent.com/-7UbT-Oxz6AQ/AAAAAAAAAAI/AAAAAAAAACI/WvZ-_cIrkaA/photo.jpg"  width="96" height="96">
+  Hena Oruc
+</div>
+<address>
+Contact info <a href="hena.oruc00@gmail.com">hena.oruc00@gmail.com</a>.<br> 
+Semira Frašte 22, Sarajevo, Federation of Bosnia and Herzegovina<br>
+</address>
+<div id="map" style="width:100%;height:500px"></div>
+
+<script>
+function myMap() {
+  var mapCanvas = document.getElementById("map");
+  var mapOptions = {
+    center: new google.maps.LatLng(51.5, -0.2), 
+    zoom: 10
+  }
+  var map = new google.maps.Map(mapCanvas, mapOptions);
+}
+</script>
+
+<script src="https://maps.googleapis.com/maps/api/js?callback=myMap"></script>
+
+</body>
+</html>

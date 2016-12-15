@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+    background-image:url("https://s-media-cache-ak0.pinimg.com/originals/3c/83/8b/3c838b9031d3450a5f76d15d40b334d3.jpg");
+      background-repeat:no-repeat;
+      background-size:100%;
+      }
+
+     ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#64556E; 
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color:#B8F8F4 ;
+    text-align: center;
+    padding: 16px 16px;
+    text-decoration:underline;
+    
+}
+
+li a:hover {
+    background-color: #111;
+}
+ p {
+color:#380B61;
+font-size:70px;
+text-align:center;
+font-family:jasmineUPC;
+text-decoration:underline;
+}
+
+h1 {
+color:#DC3C67;
+text-align:center;
+font-family:chiller;
+font-size:50px
+}
+
+</style>
+
+</head>
+<body>
+
+<h1> <q>HENNA'S LITTLE FLOWERSHOP</q> </h1>
+<ul>
+  <li><a href="indexhome.html">Home</a></li>
+  <li><a href="gallery.html">Gallery</a></li>
+  <li><a href="contact.html">Contact</a></li>
+  <li><a href="about.html">About</a></li>
+
+ </ul>
+
+<p><q> Flowers always make people better, happier, and more helpful; they are sunshine, food and medicine for the soul.</q><br></br><p></p>
+
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+    background-image:url("https://s-media-cache-ak0.pinimg.com/originals/3c/83/8b/3c838b9031d3450a5f76d15d40b334d3.jpg");
+      background-repeat:no-repeat;
+      background-size:200%;
+      }
+ p {
+color:#380B61;
+font-size:30px;
+text-align:center;
+font-family:jasmineUPC;
+
+}
+
+h1 {
+color:#DC3C67;
+text-align:center;
+font-family:chiller;
+font-size:70px
+}
+img {
+    float: center;
+    margin: 0 0 10px 10px;
+}
+</style>
+</head>
+<body>
+
+<h1>Home</h1>
+
+<p>As a kid I had passion for flowers, since forever i wanted to have a flower shop, and now I'am happy to say that my child dream is finnaly complete..<br></br><p><img src="https://s-media-cache-ak0.pinimg.com/originals/d5/d9/d9/d5d9d96887c529b037ae2ea128539007.jpg"  width="300" height="200"></p>
+
+</body>
+</html>
